@@ -1,0 +1,317 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: azure
+}
+
+
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 100px;
+    
+}
+
+.links{
+    margin-left: 180px;
+    margin-top: 45px;
+}
+
+
+.titulo h1{
+    clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+    background-color: chocolate;
+    padding: 20px;
+    margin-left: 5px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+
+.ingresar{
+    color: black;
+    background-color: rgb(118, 82, 82);
+    clip-path: polygon(20% 0, 100% 0, 80% 100%, 0% 100%);
+    padding: 20px;
+}
+
+
+.registrate{
+    background-color: chocolate;
+    clip-path: polygon(20% 0, 100% 0, 80% 100%, 0% 100%);
+    padding: 20px;
+  
+}
+
+
+
+
+.principal{
+    
+    height: 100px;
+    width: 1350px;
+    background-color: rgb(211, 230, 230);
+    
+}
+
+
+
+.publicaciones h1,h5{
+margin-left: 100px;
+}
+
+
+
+.dea{
+    display: flex;
+    margin-right: 150px;
+    background-color: rgb(243, 237, 215);
+}
+
+.primero{
+    width: 25%;
+    height: 350px;
+    border: 1px solid black;
+    margin-right: 100px;
+    
+}
+.segundo h4,p,a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tercero h4,p,a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cuarto h4,p,a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.segundo{
+    border: 1px solid black;
+    width: 25%;
+    display: flex;
+    height: 350px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tercero{
+    width: 25%;
+    border: 1px solid chocolate;
+    box-shadow: chocolate;
+    height: 350px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.cuarto{
+    border: 1px solid black;
+    height: 350px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.primero h1{
+    color: chocolate;
+    margin-left: 150px;
+    font-size: 30px;
+    
+}
+.primero h5{
+    color: black;
+    margin-left: 120px;
+   
+    
+}
+
+
+.dea a{
+    color: black;
+    text-decoration: none;
+}
+
+.dea img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+.videos{
+    margin-top: 100px;
+}
+
+
+.articulos{
+  margin-left: 1200px;
+  background-color: burlywood;
+}
+
+
+
+
+.todovideos{
+    display: flex;
+    flex-direction: row;
+}
+
+.videos{
+    display: flex;
+    flex-direction: row;
+}
+
+.video{
+    display: flex;
+    margin-right: 150px;
+    background-color: rgb(243, 237, 215);
+}
+
+.video1{
+    width: 25%;
+    height: 400px;
+    border: 1px solid black;
+    margin-right: 100px;
+    
+}
+.segundo h4,p,a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tercero h4,p,a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cuarto h4,p,a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.video2{
+    border: 1px solid black;
+    width: 25%;
+    display: flex;
+    height: 400px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.video3{
+    width: 25%;
+    border: 1px solid chocolate;
+    box-shadow: chocolate;
+    height: 400px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.video4{
+    border: 1px solid black;
+    height: 400px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.video1 h1{
+    color: chocolate;
+    font-size: 25px;
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    display: flex;
+    flex-direction: row;
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+}
+
+.cuenta{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.cuenta img{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    padding: 0;
+}
+
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.mensaje{
+    display: flex;
+    flex-direction: column;
+}
+
+.mensaje button{
+    height: 50px;
+    width: 70px;
+    margin-left: 175px;
+}
+
+
+a{
+    text-decoration: none;
+
+}
+
+.articulos a{
+    color: black;
+}
